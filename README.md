@@ -71,7 +71,7 @@ SIP Sekolah Custom adalah aplikasi manajemen pembayaran sekolah yang dapat dikem
 
 ## Donasi
 
-Yuk biar makin semangat! Yang berniat donasi untuk pengembangan aplikasi ini bisa melalui link di bawah ini:
+Yuk biar makin semangat! Yang berminat donasi untuk pengembangan aplikasi ini bisa melalui link di bawah ini:
 
 [Donasi via Sociabuzz](https://sociabuzz.com/amirudin5592)
 
